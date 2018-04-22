@@ -4,6 +4,7 @@
 # **Module Name**
 ## Description
 This Magisk module enables the new Camera2 API by adding "persist.camera.HAL3.enabled=1" to build.prop.
+
 Update to compatible with magisk v15+ (2018/04/22)
 ## Changelog
 Update magisk template to v15.0
