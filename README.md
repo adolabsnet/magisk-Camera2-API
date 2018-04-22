@@ -16,5 +16,7 @@ Instructions here
 
 ## Links
 [Reference Thread](https://forum.xda-developers.com/redmi-note-3/how-to/guide-how-to-enable-camera2-api-t3419579)
+
 [Reference Module](https://github.com/zanglang/magisk-Camera2-API)
+
 [Latest stable Magisk](http://www.tiny.cc/latestmagisk)
